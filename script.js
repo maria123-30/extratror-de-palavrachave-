@@ -14,7 +14,7 @@ function processaTexto(texto) {
     let palavras = texto.split(/\P{L}+/u);
 
 
-    let frequencia = [];
+    let frequencias = [];
 
 
 
